@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "our philosophy ",
+    "currentPage": "index.html",
     "versionFirst": "3.6.1",
     "versionPublish": "3.11.1",
     "name": "Rational Sanskaar ",
@@ -139,6 +139,9 @@
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "22px"
+            },
+            ".mbr-section-text B": {
+              "font-size": "20px"
             }
           },
           "_anchor": "header2-0",
@@ -185,8 +188,8 @@
             }
           },
           "title": "Rational &nbsp;Sanskaar&nbsp;",
-          "text": "<b>Rational Sanskaar is a curriculum for emotion. Its a combination of ancient Indian psychology and evidence based cognitive therapy. When the structure of west and the concepts of east meet life can be meaningful and mindful.</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#form1-9\" data-toolbar=\"-mbrBtnMove\">we want it in our school</a>"
+          "text": "<b>Rational Sanskaar is a curriculum for emotion. Its a combination of ancient Indian psychology and evidence based cognitive therapy. When the structure of west and the concepts of east meet life can be meaningful and mindful.</b><br><b><i>We are building a team in &nbsp;Mumbai and &nbsp;Thane .</i>&nbsp;</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"index.html#form1-2\" data-toolbar=\"-mbrBtnMove\">I am a Psychologist/Teacher want to join you<br></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html#form1-9\" data-toolbar=\"-mbrBtnMove\">We want it at our school&nbsp;<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form2-a\" data-toolbar=\"-mbrBtnMove\">I am a Parent, want to know more</a> "
         },
         {
           "_tags": [
@@ -357,6 +360,10 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
+            "count": 3,
+            "showImages": false,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
@@ -366,11 +373,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": true,
-            "count": 3,
-            "showImages": false,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": true
           },
           "title": "TESTIMONIALS&nbsp;",
           "subtitle": "Shape future of your institution and children with us."
