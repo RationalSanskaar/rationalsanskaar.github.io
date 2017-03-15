@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "our philosophy ",
+    "currentPage": "our philosophy.html ",
     "versionFirst": "3.6.1",
     "versionPublish": "3.11.1",
     "name": "Rational Sanskaar ",
@@ -800,221 +800,6 @@
         }
       ]
     },
-    "our philosophy ": {
-      "settings": {
-        "title": "Web Builder Title",
-        "meta_descr": "Web Builder Description"
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-family": "'Roboto Condensed', sans-serif"
-            },
-            ".link": {
-              "font-size": "1.55rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.679rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b3b3b3"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c4c4c4!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#cccccc"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-g",
-          "_params": {
-            "bgColor": "#cccccc",
-            "fontSize": "1.55",
-            "fontName": {
-              "name": "Roboto Condensed",
-              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "css": "'Roboto Condensed', sans-serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/rational-sanskaar-logo-227x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Rational Sanskaar&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">BE A PART&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"our philosophy \">OUR PHILOSOPHY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"our philosophy \" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PARENTS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"3 Ways Parents can Manage Exam Stress.html\">3 Ways Parents can Manage Exam StressNew Item</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider",
-          "_params": {
-            "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "timeout": "4",
-            "slides": [
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/rs-header-2000x1500.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "FULL SCREEN SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/photo-2017-03-13-10-37-2000x1125.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "VIDEO SLIDE",
-                "showText": false,
-                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/photo-2017-03-13-10-37-2000x1484.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "IMAGE SLIDE",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/photo-2017-03-13-10-38-2000x1125.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "IMAGE SLIDE",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ],
-            "fullScreen": false,
-            "bgColor": "#fff",
-            "showBullets": false
-          },
-          "_anchor": "slider-i",
-          "articleLayout": false
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts1-h",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#7c706b",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/rational-sanskaar-logo-128x72.png",
-              "width": 128,
-              "active": true,
-              "link": "#top",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>Metamorphosis <br>Plot number A-59, Road number 10, <br>Opp Bosch Car Service,<br> Wagle Estate, <br>Thane West<br><br><br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: psyflexorg@gmail.com<br>\nPhone: +919035592099",
-          "text3": ""
-        }
-      ]
-    },
     "BLOG2.html": {
       "settings": {
         "title": "Website Builder Title",
@@ -1445,6 +1230,221 @@
             }
           },
           "_anchor": "contacts1-k",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#7c706b",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/rational-sanskaar-logo-128x72.png",
+              "width": 128,
+              "active": true,
+              "link": "#top",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Metamorphosis <br>Plot number A-59, Road number 10, <br>Opp Bosch Car Service,<br> Wagle Estate, <br>Thane West<br><br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: psyflexorg@gmail.com<br>\nPhone: +919035592099",
+          "text3": ""
+        }
+      ]
+    },
+    "our philosophy.html ": {
+      "settings": {
+        "title": "Rational sanskaar ",
+        "meta_descr": "Rational sanskaar "
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-family": "'Roboto Condensed', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.55rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.679rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#b3b3b3"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#c4c4c4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#cccccc"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-g",
+          "_params": {
+            "bgColor": "#cccccc",
+            "fontSize": "1.55",
+            "fontName": {
+              "name": "Roboto Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "css": "'Roboto Condensed', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/rational-sanskaar-logo-227x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Rational Sanskaar&nbsp;</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">BE A PART&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"our philosophy \">OUR PHILOSOPHY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"our philosophy \" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PARENTS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"3 Ways Parents can Manage Exam Stress.html\">3 Ways Parents can Manage Exam StressNew Item</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": "4",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/rs-header-2000x1500.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "FULL SCREEN SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/photo-2017-03-13-10-37-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "VIDEO SLIDE",
+                "showText": false,
+                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/photo-2017-03-13-10-37-2000x1484.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/photo-2017-03-13-10-38-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#fff",
+            "showBullets": false
+          },
+          "_anchor": "slider-i",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-h",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
